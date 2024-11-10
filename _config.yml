@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "https://angelfluffyookami.github.io/photography/"
+baseurl: "https://bomkz.github.io/photography/"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
@@ -14,7 +14,7 @@ header:
 footer:
  name: "-"
  bio: "f45a @ Discord, AutumnOokami @ Twitter"
- github: "https://github.com/angelFluffyOokami/photography"
+ github: "https://github.com/bomkz/photography"
 web_design: "AJ"
 social_urls:
   facebook: ""
@@ -22,4 +22,4 @@ social_urls:
   instagram: ""
   dribbble: ""
   linkedin: ""
-  github: "https://www.github.com/angelfluffyookami/"
+  github: "https://www.github.com/bomkz/"
