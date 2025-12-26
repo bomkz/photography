@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "https://bomkz.github.io/photography/"
+baseurl: "https://photos.k1tty.stream/"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
@@ -18,7 +18,7 @@ footer:
 web_design: "AJ"
 social_urls:
   facebook: ""
-  twitter: "https://twitter.com/AngelOokami"
+  twitter: "https://twitter.com/AutumnOokami"
   instagram: ""
   dribbble: ""
   linkedin: ""
