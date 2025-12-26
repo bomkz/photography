@@ -1,25 +1,25 @@
 # Base configs
-baseurl: "http://photos.surprisingly.works/"
+baseurl: "https://photos.k1tty.stream/"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
 
 # UI configs
-title: "Photography by FuzzPawsOokami"
-subtitle: "My world, seen through your eyes. "
-author: ""
+title: "Autumn's Photo Collection"
+subtitle: "<3"
+author: "Autumn Ookami"
 header:
  title: ""
  subtitle: "" 
 footer:
- name: "-"
- bio: "♡ FuzzPawsOokami! ♡#67199 @ Discord, FuzzPawsOokami @ Twitter, fuzzydazzleookami @ Instagram"
- github: ""
+ name: "Autumn Ookami"
+ bio: "f45a @ Discord, AutumnOokami @ Twitter"
+ github: "https://github.com/bomkz/photography"
 web_design: "AJ"
 social_urls:
   facebook: ""
-  twitter: "https://twitter.com/FuzzPawsOokami"
-  instagram: "https://www.instagram.com/fuzzydazzleookami/"
+  twitter: "https://twitter.com/AutumnOokami"
+  instagram: ""
   dribbble: ""
   linkedin: ""
-  github: "https://www.github.com/angelfluffyookami/"
+  github: "https://www.github.com/bomkz/"
